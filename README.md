@@ -1,1 +1,1 @@
-This Repo is a draft for my Portfolio plan-aesthetic which is a game main menu thing
+This Repo serves as a draft for my Portfolio plan, which had a game main menu thing design/concept using pure Three.JS
